@@ -5,7 +5,7 @@
 </div>
 
 <img align="center" alt="" src="./src/header-gif.gif">
-https://static.myfigurecollection.net/upload/pictures/2022/08/02/3204165.gif
+
 
 #
 
@@ -21,4 +21,5 @@ https://static.myfigurecollection.net/upload/pictures/2022/08/02/3204165.gif
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/gabbeluvv/)
 
 
-<h3 align="left">My Stack ~</h3>
+
+
