@@ -9,7 +9,8 @@
 
 #
 
-<p align="center">Estudante de Desenvolvimento de Sistemas no Senai A. Jacob Lafer. Estou constantemente em busca de conhecimentos e oportunidades. Cursei Marketing Digital e Informatica. Além disso, estou cursando inglês nível avançado.
+<p align="center">Estudante de Desenvolvimento de Sistemas no Senai A. Jacob Lafer. Cursei Marketing Digital e Informatica. Além disso, estou cursando inglês nível avançado.
+Estou constantemente em busca de conhecimentos e oportunidades.
 
   
 #
